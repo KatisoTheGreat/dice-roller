@@ -1,3 +1,3 @@
 # dice-roller
 
-#A dice rolling application built using Kotlin
+#An Android dice rolling application built using Kotlin
